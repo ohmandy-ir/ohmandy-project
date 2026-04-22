@@ -2,18 +2,12 @@
 
 # 기본정보
 | 항목    | 내용                                                                                                           |
-
 | ----- | ------------------------------------------------------------------------------------------------------------ |
-
-| 지자체   | 서울특별시 관악구                                                                                                   |
-
-| 공포일자  | 20251113                                                                                                     |
-
-| 시행일자  | 20251113                                                                                                     |
-
-| 담당부서  | 아동청소년과                                                                                                     |
-
-| 원문 링크 | [https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR\&viewCls=ordinInfoP\&ordinSeq=2085211] |
+| 지자체   | 서울특별시 관악구                                                                                                  |
+| 공포일자  | 20251113                                                                                                 |
+| 시행일자  | 20251113                                                                                             |
+| 담당부서  | 아동청소년과                                                                                                    |
+| 원문 링크 | (https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR\&viewCls=ordinInfoP\&ordinSeq=2085211) |
 
 
 
