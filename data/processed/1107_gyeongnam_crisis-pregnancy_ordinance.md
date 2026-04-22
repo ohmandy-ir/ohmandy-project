@@ -8,7 +8,7 @@
 | 공포일자 | 20240926 |
 | 시행일자 | 20240926 |
 | 담당부서 | 복지여성국 보육정책 |
-| 원문 링크 | (https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR&viewCls=ordinInfo) |
+| 원문 링크 | ([https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR&viewCls=ordinInfo](https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR&viewCls=ordinInfoP&ordinSeq=1971323)) |
 
 # 조문
 
