@@ -8,7 +8,7 @@
 | 공포일자 | 20250513 |
 | 시행일자 | 20250513 |
 | 담당부서 | 여성가족청소년과 |
-| 원문 링크 | (https://www.elis.go.kr/allalr/selectAlrBdtOne) |
+| 원문 링크 | [(https://www.elis.go.kr/allalr/selectAlrBdtOne)](https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR&viewCls=ordinInfoP&ordinSeq=2034739) |
 
 # 조문
 
