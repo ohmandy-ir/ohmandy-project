@@ -4,11 +4,11 @@
 
 | 항목 | 내용 |
 |---|---|
-| 지자체 |  |
-| 공포일자 |  |
-| 시행일자 |  |
-| 담당부서 |  |
-| 원문 링크 |  |
+| 지자체 | 인천광역시 서구 |
+| 공포일자 | 20251020 |
+| 시행일자 | 20251020 |
+| 담당부서 | 아동행복과 |
+| 원문 링크 | (https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR&viewCls=ordinInfoP&ordinSeq=2070797) |
 
 # 조문
 
