@@ -4,11 +4,11 @@
 
 | 항목 | 내용 |
 |---|---|
-| 지자체 |  |
-| 공포일자 |  |
-| 시행일자 |  |
-| 담당부서 |  |
-| 원문 링크 |  |
+| 지자체 | 울산광역시 중구 |
+| 공포일자 | 20250407 |
+| 시행일자 | 20250407 |
+| 담당부서 | 가족복지과 |
+| 원문 링크 | (https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR&viewCls=ordinInfoP&ordinSeq=2027373) |
 
 # 조문
 
