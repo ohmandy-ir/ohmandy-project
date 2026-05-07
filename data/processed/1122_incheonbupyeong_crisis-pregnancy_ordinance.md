@@ -4,11 +4,11 @@
 
 | 항목 | 내용 |
 |---|---|
-| 지자체 |  |
-| 공포일자 |  |
-| 시행일자 |  |
-| 담당부서 |  |
-| 원문 링크 |  |
+| 지자체 | 인천광역시 부평구 |
+| 공포일자 |20250519  |
+| 시행일자 | 20250519 |
+| 담당부서 | 여성가족과 |
+| 원문 링크 | (https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR&viewCls=ordinInfoP&ordinSeq=2039293) |
 
 # 조문
 
