@@ -4,11 +4,11 @@
 
 | 항목 | 내용 |
 |---|---|
-| 지자체 |  |
-| 공포일자 |  |
-| 시행일자 |  |
-| 담당부서 |  |
-| 원문 링크 |  |
+| 지자체 |전라남도  |
+| 공포일자 | 20241004 |
+| 시행일자 | 20241004 |
+| 담당부서 | 여성가족정책관 |
+| 원문 링크 | (https://www.law.go.kr/ordinInfoP.do?urlMode=ordinScJoRltInfoR&viewCls=ordinInfoP&ordinSeq=1975739) |
 
 # 조문
 
